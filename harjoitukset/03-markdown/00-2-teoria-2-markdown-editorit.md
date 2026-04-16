@@ -23,16 +23,26 @@ Alta löytyvät ohjeet github.com:in sisäänrakennetun tekstieditorin käyttö�
 
 Tekstieditorin avaaminen, uutta tiedostoa varten, onnistuu klikkaamalla github classroom -repositoriossasi "add file"-nappia:
 
-![Github.com:issa uuden tiedoston lisäys tapahtuu "add file"-napin avulla](../../kuvat/github-com-uuden-tiedoston-lisays.png)
+![Github.com:issa uuden tiedoston lisäys tapahtuu "add file"-napin avulla](../../kuvat/github-com-uuden-tiedon-lisays.png)
+
+Tämän jälkeen avautuvasta valikosta, valitse "create new file"-kontekstivalinta.
+
+![josta valitaan vielä "create new file"-valinta](../../kuvat/github-com-create-new-file.png)
 
 ### Tiedoston nimen ja kansion vaihtaminen
 
 Github:in tekstieditorissa voit lisätä tiedoston nimen eteen hakemiston, lisäämällä `/`-merkin hakemiston jälkeen. 
 Vastaavasti, pääset takaisin muokkaamaan aiemman kansion nimeä poistamalla tuon `/`-merkin askelpalauttimella (engl. backspace).
 
+![github.com:in tiedostoeditorin tiedostonimi-kenttä](../../kuvat/github-com-tiedoston-nimen-vaihto.png)
+
+_yllä: tätä lukemaasi markdown-tiedostoa github:in tekstieditorissa muokattaessa, tiedostonimi-kenttä näyttää oheiselta._
+
 ### Esikatselutila github.com:in tekstieditorissa
 
 Github.com:in tekstieditorin vasemmasta yläkulmasta löytyy preview-nappi, jonka avulla voit katsella markdown-tiedostoa esikatselutilassa.
+
+Nappi löytyy tiedostonimi-kentän alapuolelta.
 
 ![Github:in tekstieditorin preview-nappi](../../kuvat/github-markdown-preview-nappi.png)
 
