@@ -19,7 +19,7 @@ ilman erillistä markdown-kieltä osaavaa ohjelmaa, ja se on myös hyvin ymmärr
 
 Alla on tämän markdown-tiedoston alku esitettynä github:in tekstieditorissa.
 
-![markdown raakatekstinä](kuvat/markdown-raakateksti.png)
+![markdown raakatekstinä](../../kuvat/markdown-raakateksti.png)
 
 _Yllä: tämä tiedosto markdown-tiedostona, katseltuna github:in tekstieditorissa._
 
@@ -34,7 +34,7 @@ Yleensä tällainen nätimpi muoto on html, jonka selaimet osaavat näyttää.
 Tälläkin hetkellä todennnäköisesti luet tätä tiedostoa juuri selaimen kautta html:ksi käännettynä tiedostona.
 Tämä dokumentaatio on kuitenkin tehty markdownilla, ja vain käännetty automaattisesti github:in toimesta nätimmäksi html:ksi. 
 
-![markdown selaimessa](kuvat/markdown-selaimessa.png)
+![markdown selaimessa](../../kuvat/markdown-selaimessa.png)
 
 _Yllä: tämä tiedosto markdown-tiedostona, katseltuna selaimessa, github:in renderöimänä._
 
