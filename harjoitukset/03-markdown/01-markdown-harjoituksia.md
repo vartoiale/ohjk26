@@ -100,6 +100,15 @@ Luo yksinkertainen markdown-tiedosto, joka:
   * jossa on neljä listakohtaa (engl. list item)
     * joissa lukee tekstinä yksi seuraavista: "ensimmäinen", "toinen", "kolmas", "neljäs"
 
+Listan pitäisi siis näyttää seuraavalta preview-tilassa:
+
+```md
+* ensimmäinen
+* toinen
+* kolmas
+* neljäs
+```
+
 ### Tehtävä 5 - monitasoinen lista
 
 **palautettavan tiedoston nimi:** `teht5.md` (kansiossa: `harjoitukset/03-markdown/teht5.md`)
