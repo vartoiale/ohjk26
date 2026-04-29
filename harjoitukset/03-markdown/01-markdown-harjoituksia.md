@@ -42,9 +42,9 @@ Luo yksinkertainen markdown-tiedosto, joka:
 * sisältää tekstin "Tervehdys, hyvä maailma!",
 * ei sisällä lainkaan markdown-syntaksia.
 
-### Tehtävä 3 - otsikolla
+### Tehtävä 2 - otsikolla
 
-**palautettavan tiedoston nimi:** `teht3.md` (kansiossa: `harjoitukset/03-markdown/teht3.md`)
+**palautettavan tiedoston nimi:** `teht2.md` (kansiossa: `harjoitukset/02-markdown/teht2.md`)
 
 #### Ohjeistus
 
